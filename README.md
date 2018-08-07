@@ -11,4 +11,4 @@ The Project involves designing a smart cart which can process bills automaticall
 - Circuit Designing <br>
 - Hardware Designing <br>
 
-<img src = "project_poster.jpeg" height = "600" width = "800" />
+<img src = "project_poster.jpeg" height = "600" width = "900" />
