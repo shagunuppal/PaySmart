@@ -1,7 +1,7 @@
 # PaySmart
 
 <b> Course Project : Introduction to Engineering Design (DES130) </b><br>
-<b> Instructor : Dr. Alexander Fell </b><br>
+<b> Instructor: Dr. Alexander Fell </b><br>
 
 Team Size: 4
 <br>
